@@ -1,5 +1,7 @@
 # url
 ACGN相关地址
+
+
 阅读网页版
 https://reader.htmake.com/
 阅读论坛
@@ -12,11 +14,11 @@ http://yuedu.miaogongzi.net/
 http://www.yckceo.com/
 知轩藏书整合
 https://zxcs.wiki/
-69书吧
+69书吧（点）
 https://www.69shuba.com/
-稷下书院
+稷下书院（猫）
 https://www.novel543.com/
-提莫书屋
+提莫书屋（卢）
 https://www.timotxt.com/
 搜书吧中转
 http://www.soushu2022.com/
@@ -41,4 +43,4 @@ https://sd.2021.host/
 komiic漫画
 https://komiic.com/
 MioBT
-http://www.miobt.com
+http://www.miobt.com/
