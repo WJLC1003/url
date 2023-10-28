@@ -12,6 +12,9 @@ ACGN相关地址
 
 源仓库http://www.yckceo.com/
 
+安卓）MultiTTS及2G语音包阿里云https://www.aliyundrive.com/s/GipcbBiH92y 提取码: w32s
+可直接解压，手机的话改后缀为7z再解压，第二层的压缩包不需要改名直接解压即可
+
 知轩藏书整合https://zxcs.wiki/
 
 69书吧（点）https://www.69shuba.com/
