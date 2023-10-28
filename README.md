@@ -42,4 +42,4 @@ Pixiv镜像站https://sd.2021.host/
 
 komiic漫画https://komiic.com/
 
-MioBThttp://www.miobt.com/
+MioBT下载站http://www.miobt.com/
