@@ -35,7 +35,7 @@ ACG盒子（导航站）https://www.acgbox.link/
 
 轻小说文库安卓APP项目主页https://wenku8.mewx.org/
 
-轻小说文库安卓apphttps://github.com/MewX/light-novel-library_Wenku8_Android/releases
+轻小说文库安卓 https://github.com/MewX/light-novel-library_Wenku8_Android/releases
 
 轻之国度https://www.lightnovel.us/
 
