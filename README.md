@@ -2,58 +2,44 @@
 ACGN相关地址
 
 
-阅读网页版
+阅读网页版https://reader.htmake.com/
 
-https://reader.htmake.com/
+阅读论坛https://legado.cn
 
-阅读论坛
+阅读书源整合https://legado.aoaostar.com/
 
-https://legado.cn
+喵公子阅读书源整合http://yuedu.miaogongzi.net/
 
-阅读书源整合
+源仓库http://www.yckceo.com/
 
-https://legado.aoaostar.com/
+知轩藏书整合https://zxcs.wiki/
 
-喵公子阅读书源整合
+69书吧（点）https://www.69shuba.com/
 
-http://yuedu.miaogongzi.net/
+稷下书院（猫）https://www.novel543.com/
 
-源仓库
+提莫书屋（卢）https://www.timotxt.com/
 
-http://www.yckceo.com/
+搜书吧中转http://www.soushu2022.com/
 
-知轩藏书整合
+第一版主中转https://voovoovoo.xyz/
 
-https://zxcs.wiki/
+第一版主中转2https://m.diyibanzhu.me/
 
-69书吧（点）
-https://www.69shuba.com/
+ACG盒子（导航站）https://www.acgbox.link/
 
-稷下书院（猫）
-https://www.novel543.com/
-提莫书屋（卢）
-https://www.timotxt.com/
-搜书吧中转
-http://www.soushu2022.com/
-第一版主中转
-https://voovoovoo.xyz/
-第一版主中转2
-https://m.diyibanzhu.me/
-ACG盒子（导航站）
-https://www.acgbox.link/
-真白萌
-https://masiro.me/
-轻小说文库安卓APP项目主页
-https://wenku8.mewx.org/
-轻小说文库安卓app
-https://github.com/MewX/light-novel-library_Wenku8_Android/releases
-轻之国度
-https://www.lightnovel.us/
-次元狗
-https://www.acgndog.com/
-Pixiv镜像站
-https://sd.2021.host/
-komiic漫画
-https://komiic.com/
-MioBT
-http://www.miobt.com/
+真白萌https://masiro.me/
+
+轻小说文库安卓APP项目主页https://wenku8.mewx.org/
+
+轻小说文库安卓apphttps://github.com/MewX/light-novel-library_Wenku8_Android/releases
+
+轻之国度https://www.lightnovel.us/
+
+次元狗https://www.acgndog.com/
+
+Pixiv镜像站https://sd.2021.host/
+
+komiic漫画https://komiic.com/
+
+MioBThttp://www.miobt.com/
