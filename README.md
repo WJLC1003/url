@@ -1,6 +1,7 @@
 # url
 ACGN相关地址
 
+熊曰翻译，密文放下面http://hi.pcmoe.net/
 
 阅读网页版https://reader.htmake.com/
 
