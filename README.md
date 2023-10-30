@@ -30,6 +30,10 @@ ACGN相关地址
 
 第一版主中转2https://m.diyibanzhu.me/
 
+第一版主3http://m.diyibanzhu.buzz/
+
+UAA  https://www.uaa.com/
+
 ACG盒子（导航站）https://www.acgbox.link/
 
 真白萌https://masiro.me/
