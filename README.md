@@ -26,9 +26,9 @@ ACGN相关地址
 
 搜书吧中转http://www.soushu2022.com/
 
-第一版主中转https://voovoovoo.xyz/
+第一版主1https://voovoovoo.xyz/
 
-第一版主中转2https://m.diyibanzhu.me/
+第一版主2https://m.diyibanzhu.me/
 
 第一版主3http://m.diyibanzhu.buzz/
 
