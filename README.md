@@ -42,6 +42,8 @@ ACG盒子（导航站）https://www.acgbox.link/
 
 轻小说文库安卓 https://github.com/MewX/light-novel-library_Wenku8_Android/releases
 
+哔哩轻小说https://w.linovelib.com/
+
 轻之国度https://www.lightnovel.us/
 
 次元狗https://www.acgndog.com/
