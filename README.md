@@ -57,3 +57,8 @@ MioBT下载站http://www.miobt.com/
 09-22年轻小说打包下载，以及其他https://github.com/orgs/ixinzhi/repositories?type=all
 
 油猴脚本站https://greasyfork.org/zh-CN
+
+zhelper search出版书籍检索下载[zhelper search](https://search.zhelper.net/)https://search.zhelper.net/
+记得先看使用须知，建议使用Ylibrary源和Ylibrary Superlib Fixed源，需配合百度秒传，后者需pdg转pdf工具
+
+
