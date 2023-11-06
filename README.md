@@ -5,6 +5,8 @@ ACGN相关地址
 
 阅读网页版https://reader.htmake.com/
 
+阅读APP 含pro版功能 https://www.123pan.com/s/LeWmjv-SIBJH.html
+
 阅读论坛https://legado.cn
 
 阅读书源整合https://legado.aoaostar.com/
@@ -13,8 +15,8 @@ ACGN相关地址
 
 源仓库http://www.yckceo.com/
 
-安卓）MultiTTS及2G语音包阿里云https://www.aliyundrive.com/s/GipcbBiH92y 提取码: w32s
-可直接解压，手机的话改后缀为rar再解压，如果错了就是7z，第二层的压缩包不需要改直接解压即可
+安卓）MultiTTS及2G语音包https://www.aliyundrive.com/s/AM8o6Hp7TnV 提取码: 46aq
+如无法解压改rar解压即可。单击选旁白语音，长按选对话语音，具体看APP内说明。
 
 知轩藏书整合https://zxcs.wiki/
 
