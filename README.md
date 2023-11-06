@@ -15,7 +15,7 @@ ACGN相关地址
 
 源仓库http://www.yckceo.com/
 
-安卓）MultiTTS1.3.2及3.62G语音包https://www.aliyundrive.com/s/AM8o6Hp7TnV
+安卓）MultiTTS及语音包，不想折腾建议旧版https://www.aliyundrive.com/s/AM8o6Hp7TnV
 使用说明https://legado.cn/thread-7547-1-1.html
 
 知轩藏书整合https://zxcs.wiki/
