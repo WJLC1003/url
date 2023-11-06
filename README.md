@@ -16,9 +16,9 @@ ACGN相关地址
 源仓库http://www.yckceo.com/
 
 安卓）MultiTTS及语音包  
-1.2.9https://www.aliyundrive.com/s/FooBKzrzfvc 提取码: sp58  
+【1.2.9https://www.aliyundrive.com/s/FooBKzrzfvc 提取码: sp58  
 1.3.2但不推荐https://www.123pan.com/s/4UKiVv-6rgfh.html  
-使用说明https://legado.cn/thread-7547-1-1.html
+使用说明https://legado.cn/thread-7547-1-1.html】
 
 知轩藏书整合https://zxcs.wiki/
 
