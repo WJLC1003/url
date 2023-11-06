@@ -15,8 +15,8 @@ ACGN相关地址
 
 源仓库http://www.yckceo.com/
 
-安卓）MultiTTS及2G语音包https://www.aliyundrive.com/s/AM8o6Hp7TnV 提取码: 46aq
-（如无法解压改rar解压即可。单击选旁白语音，长按选对话语音，具体看APP内说明。
+安卓）MultiTTS1.3.2及3.62G语音包https://www.aliyundrive.com/s/AM8o6Hp7TnV
+使用说明https://legado.cn/thread-7547-1-1.html
 
 知轩藏书整合https://zxcs.wiki/
 
