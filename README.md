@@ -17,7 +17,7 @@ ACGN相关地址
 
 
 安卓）MultiTTS及语音包  
-1.2.9https://pan.quark.cn/s/6e67633e4a68 提取码: sp58  
+1.2.9https://pan.quark.cn/s/6e67633e4a68  
 1.3.2但不推荐https://www.123pan.com/s/4UKiVv-6rgfh.html  
 使用说明https://legado.cn/thread-7547-1-1.html
 
