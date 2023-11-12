@@ -3,8 +3,6 @@ ACGN相关地址
 
 熊曰翻译，密文放下面http://hi.pcmoe.net/
 
-阅读网页版https://reader.htmake.com/
-
 阅读APP 含pro版功能 https://www.123pan.com/s/LeWmjv-SIBJH.html
 
 阅读论坛https://legado.cn
@@ -15,6 +13,7 @@ ACGN相关地址
 
 源仓库http://www.yckceo.com/
 
+阅读服务器版https://github.com/hectorqin/reader
 
 安卓）MultiTTS及语音包  
 1.2.9https://pan.quark.cn/s/6e67633e4a68  
