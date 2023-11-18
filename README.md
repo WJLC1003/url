@@ -20,6 +20,9 @@ ACGN相关地址
 1.3.2但不推荐https://www.123pan.com/s/4UKiVv-6rgfh.html  
 使用说明https://legado.cn/thread-7547-1-1.html
 
+zlibrary https://zh.go-to-zlibrary.se/#desktop_app_tab
+
+静读天下专业版https://www.123pan.com/s/HQeA-AO1Sh
 
 知轩藏书整合https://zxcs.wiki/
 
