@@ -67,6 +67,7 @@ MioBT下载站http://www.miobt.com/
 油猴脚本站https://greasyfork.org/zh-CN
 
 易书计划https://ssdown.org/
+zlib镜像站列表https://mirror.ssdown.org/
 
 zhelper search出版书籍检索下载[zhelper search](https://search.zhelper.net/)https://search.zhelper.net/
 记得先看使用须知，建议使用Ylibrary源和Ylibrary Superlib Fixed源，需配合百度秒传，后者需pdg转pdf工具
