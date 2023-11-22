@@ -42,10 +42,7 @@ zlibrary https://zh.go-to-zlibrary.se/#desktop_app_tab
 
 UAA  https://www.uaa.com/
 
-色库全书
-chm版 magnet:?xt=urn:btih:dbfea538c697a36002af716fe4478b1baf511a81&dn=
-rar版 magnet:?xt=urn:btih:DDAB12EF8A5AA350845E8B9D95169725D9569D21
-txt版 magnet:?xt=urn:btih:aa1a2e57a13fee49aa63b62de99bfe60b4e59aaf
+色库全书rar版 magnet:?xt=urn:btih:DDAB12EF8A5AA350845E8B9D95169725D9569D21
 
 ACG盒子（导航站）https://www.acgbox.link/
 
