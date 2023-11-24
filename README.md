@@ -20,8 +20,6 @@ MultiTTS及语音包
 1.3.2但不推荐https://www.123pan.com/s/4UKiVv-6rgfh.html  
 使用说明https://legado.cn/thread-7547-1-1.html
 
-zlibrary https://zh.go-to-zlibrary.se/#desktop_app_tab
-
 静读天下专业版https://www.123pan.com/s/HQeA-AO1Sh
 
 知轩藏书整合https://zxcs.wiki/
@@ -69,9 +67,9 @@ MioBT下载站http://www.miobt.com/
 油猴脚本站https://greasyfork.org/zh-CN
 
 易书计划https://ssdown.org/
-zlib镜像站列表https://mirror.ssdown.org/
+无限制zlibrary镜像站列表https://mirror.ssdown.org/
+有多平台客户端但是有下载次数限制的zlibrary https://zh.go-to-zlibrary.se/#desktop_app_tab
 
 zhelper search出版书籍检索下载[zhelper search](https://search.zhelper.net/)https://search.zhelper.net/
 记得先看使用须知，建议使用Ylibrary源和Ylibrary Superlib Fixed源，需配合百度秒传，后者需pdg转pdf工具
-
 
