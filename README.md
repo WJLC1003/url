@@ -40,6 +40,8 @@ MultiTTS及语音包
 
 UAA  https://www.uaa.com/
 
+中文成人文学网 https://xbookcn.net/
+
 色库全书rar版（解压后为隐藏文件夹） magnet:?xt=urn:btih:DDAB12EF8A5AA350845E8B9D95169725D9569D21
 
 ACG盒子（导航站）https://www.acgbox.link/
