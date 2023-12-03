@@ -11,7 +11,7 @@ ACGN相关地址
 
 喵公子阅读书源整合http://yuedu.miaogongzi.net/
 
-源仓库http://www.yckceo.com/
+源仓库https://yckceo.vip
 
 阅读服务器版https://github.com/hectorqin/reader
 
