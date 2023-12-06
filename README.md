@@ -77,3 +77,5 @@ MioBT下载站http://www.miobt.com/
 zhelper search出版书籍检索下载[zhelper search](https://search.zhelper.net/)https://search.zhelper.net/
 记得先看使用须知，建议使用Ylibrary源和Ylibrary Superlib Fixed源，需配合百度秒传，后者需pdg转pdf工具
 
+李跳跳去广告&微信好友检测 https://github.com/rongzhiy/LiTiaotiao
+
