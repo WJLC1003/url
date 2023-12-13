@@ -70,14 +70,11 @@ MioBT下载站http://www.miobt.com/
 
 易书计划https://ssdown.org/
 
-无限制zlibrary镜像站列表https://mirror.ssdown.org/
-
-有多平台客户端但是有下载次数限制的zlibrary https://zh.go-to-zlibrary.se/#desktop_app_tab
-
-zhelper search出版书籍检索下载[zhelper search](https://search.zhelper.net/)https://search.zhelper.net/
-记得先看使用须知，建议使用Ylibrary源和Ylibrary Superlib Fixed源，需配合百度秒传，后者需pdg转pdf工具
+zlibrary https://zh.go-to-zlibrary.se/#desktop_app_tab
 
 安娜的档案 https://zh.annas-archive.gs/ 
 
 李跳跳去广告&微信好友检测（8.0.37可用，42不行） https://github.com/rongzhiy/LiTiaotiao
 
+zhelper search出版书籍检索下载[zhelper search](https://search.zhelper.net/)https://search.zhelper.net/
+记得先看使用须知，建议使用Ylibrary源和Ylibrary Superlib Fixed源，需配合百度秒传（秒传暂废）后者需pdg转pdf工具
