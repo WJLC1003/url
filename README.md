@@ -22,7 +22,13 @@ MultiTTS及语音包
 
 静读天下专业版https://www.123pan.com/s/HQeA-AO1Sh
 
-知轩藏书整合https://zxcs.wiki/
+知轩藏书整合 https://zxcs.wiki/
+
+知轩藏书单本搜索下载 https://zxcs.dmnb.cf/
+
+今古传奇武侠版 https://pan.baidu.com/s/1eDwb8CJ0Yw5tpqlmEJvFxQ?pwd=nmsl
+
+今古传奇奇幻版 https://www.aliyundrive.com/s/di9Mz2j1oUa
 
 69书吧（点）https://www.69shuba.com/
 
@@ -37,6 +43,8 @@ MultiTTS及语音包
 第一版主2https://m.diyibanzhu.me/
 
 第一版主3http://m.diyibanzhu.buzz/
+
+第一会所 https://sis001.com/
 
 UAA  https://www.uaa.com/
 
