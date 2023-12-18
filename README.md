@@ -86,3 +86,12 @@ zlibrary https://zh.go-to-zlibrary.se/#desktop_app_tab
 
 zhelper search出版书籍检索下载[zhelper search](https://search.zhelper.net/)https://search.zhelper.net/
 记得先看使用须知，建议使用Ylibrary源和Ylibrary Superlib Fixed源，需配合百度秒传（秒传暂废）后者需pdg转pdf工具
+
+GBT乐赏游戏空间http://gbtgame.ysepan.com/
+
+Byrutor  https://thebyrut.org/
+
+小叽资源 https://steamzg.com/
+
+AntGame下载  https://fy6b.lanzouq.com/iw1X71dicpsd
+
